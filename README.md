@@ -63,3 +63,7 @@ This utility has practical real-world applications in:
 
 ✅ This utility is clean, documented, and easy to extend — for example, you can add features like search, append, line delete, or even GUI-based interaction.
 
+##OUTPUT
+
+<img width="1919" height="970" alt="Image" src="https://github.com/user-attachments/assets/5440a06c-7ec1-44db-831c-f8d1571ec6fc" />
+
